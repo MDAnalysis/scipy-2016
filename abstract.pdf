@@ -1,0 +1,664 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /A << /S /URI /Type /Action /URI (http://mdanalysis.org) >> /Border [ 0 0 0 ] /Rect [ 123.6811 644.0236 215.9411 656.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+5 0 obj
+<< /A << /S /URI /Type /Action /URI (http://ipython.org/) >> /Border [ 0 0 0 ] /Rect [ 150.7054 512.0236 185.0528 524.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+6 0 obj
+<< /A << /S /URI /Type /Action /URI (http://jupyter.org/) >> /Border [ 0 0 0 ] /Rect [ 193.8303 512.0236 227.0578 524.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+7 0 obj
+<< /A << /S /URI /Type /Action /URI (https://github.com/arose/nglview) >> /Border [ 0 0 0 ] /Rect [ 76.98727 500.0236 111.2816 512.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+8 0 obj
+<< /A << /S /URI /Type /Action /URI (http://pandas.pydata.org/) >> /Border [ 0 0 0 ] /Rect [ 248.8734 500.0236 281.6734 512.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+9 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 41 0 R /XYZ 68.69291 255.9843 0 ] /Rect [ 172.0965 251.0236 177.8223 263.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+10 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 41 0 R /XYZ 68.69291 201.9843 0 ] /Rect [ 139.6683 101.0236 144.1163 113.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+11 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 41 0 R /XYZ 68.69291 141.9843 0 ] /Rect [ 149.809 101.0236 154.257 113.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+12 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 51 0 R /XYZ 68.69291 767.0236 0 ] /Rect [ 159.9497 101.0236 164.3977 113.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+13 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 51 0 R /XYZ 68.69291 713.0236 0 ] /Rect [ 385.0746 89.02362 392.2378 101.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+14 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 51 0 R /XYZ 68.69291 701.0236 0 ] /Rect [ 100.6965 77.02362 105.1445 89.02362 ] /Subtype /Link /Type /Annot >>
+endobj
+15 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 41 0 R /XYZ 68.69291 255.9843 0 ] /Rect [ 252.8824 77.02362 257.3304 89.02362 ] /Subtype /Link /Type /Annot >>
+endobj
+16 0 obj
+<< /Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 
+  14 0 R 15 0 R ] /Contents 62 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 61 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+17 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 41 0 R /XYZ 68.69291 255.9843 0 ] /Rect [ 476.6311 729.0236 481.199 741.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+18 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 41 0 R /XYZ 68.69291 201.9843 0 ] /Rect [ 479.5029 717.0236 483.9509 729.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+19 0 obj
+<< /A << /S /URI /Type /Action /URI (https://github.com/MDAnalysis/mdanalysis) >> /Border [ 0 0 0 ] /Rect [ 62.69291 687.0236 257.2291 699.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+20 0 obj
+<< /A << /S /URI /Type /Action /URI (http://docs.mdanalysis.org) >> /Border [ 0 0 0 ] /Rect [ 223.1071 675.0236 351.6085 687.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+21 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.mdanalysis.org/MDAnalysisTutorial/) >> /Border [ 0 0 0 ] /Rect [ 62.69291 663.0236 273.204 675.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+22 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 41 0 R /XYZ 68.69291 255.9843 0 ] /Rect [ 213.7411 555.0236 220.7207 567.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+23 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 41 0 R /XYZ 68.69291 201.9843 0 ] /Rect [ 265.2522 543.0236 269.7002 555.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+24 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 41 0 R /XYZ 68.69291 141.9843 0 ] /Rect [ 277.2725 543.0236 281.7205 555.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+25 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 51 0 R /XYZ 68.69291 767.0236 0 ] /Rect [ 289.2928 543.0236 293.7408 555.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+26 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 51 0 R /XYZ 68.69291 689.0236 0 ] /Rect [ 228.8729 519.0236 233.3209 531.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+27 0 obj
+<< /A << /S /URI /Type /Action /URI (http://becksteinlab.physics.asu.edu/) >> /Border [ 0 0 0 ] /Rect [ 296.7501 459.0236 454.6101 471.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+28 0 obj
+<< /A << /S /URI /Type /Action /URI (http://spidal.org/) >> /Border [ 0 0 0 ] /Rect [ 412.0913 375.0236 483.2413 387.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+29 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 16 0 R /XYZ 168.2629 265.0236 0 ] /Rect [ 77.58291 241.9843 83.14291 253.9843 ] /Subtype /Link /Type /Annot >>
+endobj
+30 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 16 0 R /XYZ 238.3409 91.02362 0 ] /Rect [ 88.70291 241.9843 94.26291 253.9843 ] /Subtype /Link /Type /Annot >>
+endobj
+31 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 41 0 R /XYZ 475.0729 743.0236 0 ] /Rect [ 99.82291 241.9843 105.3829 253.9843 ] /Subtype /Link /Type /Annot >>
+endobj
+32 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 41 0 R /XYZ 201.0829 569.0236 0 ] /Rect [ 110.9429 241.9843 116.5029 253.9843 ] /Subtype /Link /Type /Annot >>
+endobj
+33 0 obj
+<< /A << /S /URI /Type /Action /URI (http://doi.org/10.1002/jcc.21787) >> /Border [ 0 0 0 ] /Rect [ 176.7323 196.9843 316.8223 208.9843 ] /Subtype /Link /Type /Annot >>
+endobj
+34 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 16 0 R /XYZ 133.8429 115.0236 0 ] /Rect [ 77.58291 187.9843 83.14291 199.9843 ] /Subtype /Link /Type /Annot >>
+endobj
+35 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 41 0 R /XYZ 479.5029 731.0236 0 ] /Rect [ 88.70291 187.9843 94.26291 199.9843 ] /Subtype /Link /Type /Annot >>
+endobj
+36 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 41 0 R /XYZ 246.0829 557.0236 0 ] /Rect [ 99.82291 187.9843 105.3829 199.9843 ] /Subtype /Link /Type /Annot >>
+endobj
+37 0 obj
+<< /A << /S /URI /Type /Action /URI (http://dx.doi.org/10.1371%2Fjournal.pcbi.1004568) >> /Border [ 0 0 0 ] /Rect [ 199.7323 133.9843 420.9723 145.9843 ] /Subtype /Link /Type /Annot >>
+endobj
+38 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 16 0 R /XYZ 141.0709 115.0236 0 ] /Rect [ 77.58291 127.9843 83.14291 139.9843 ] /Subtype /Link /Type /Annot >>
+endobj
+39 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 41 0 R /XYZ 253.3109 557.0236 0 ] /Rect [ 88.70291 127.9843 94.26291 139.9843 ] /Subtype /Link /Type /Annot >>
+endobj
+40 0 obj
+<< /A << /S /URI /Type /Action /URI (http://dx.doi.org/10.1371%2Fjournal.pcbi.1004415) >> /Border [ 0 0 0 ] /Rect [ 176.7323 82.98425 397.9723 94.98425 ] /Subtype /Link /Type /Annot >>
+endobj
+41 0 obj
+<< /Annots [ 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 
+  27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 
+  37 0 R 38 0 R 39 0 R 40 0 R ] /Contents 63 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 61 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+42 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 16 0 R /XYZ 148.2989 115.0236 0 ] /Rect [ 77.58291 753.0236 83.14291 765.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+43 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 41 0 R /XYZ 260.5389 557.0236 0 ] /Rect [ 88.70291 753.0236 94.26291 765.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+44 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.sciencedirect.com/science/article/pii/S0010465516300030) >> /Border [ 0 0 0 ] /Rect [ 176.7323 708.0236 483.5323 720.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+45 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 16 0 R /XYZ 363.3529 103.0236 0 ] /Rect [ 68.69291 699.0236 74.25291 711.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+46 0 obj
+<< /A << /S /URI /Type /Action /URI (https://github.com/arose/nglview) >> /Border [ 0 0 0 ] /Rect [ 153.7323 699.7736 296.5723 711.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+47 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 16 0 R /XYZ 98.27291 91.02362 0 ] /Rect [ 68.69291 687.0236 74.25291 699.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+48 0 obj
+<< /A << /S /URI /Type /Action /URI (http://pandas.pydata.org/) >> /Border [ 0 0 0 ] /Rect [ 153.7323 687.7736 264.3623 699.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+49 0 obj
+<< /Border [ 0 0 0 ] /Contents () /Dest [ 41 0 R /XYZ 228.8729 533.0236 0 ] /Rect [ 68.69291 675.0236 74.25291 687.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+50 0 obj
+<< /A << /S /URI /Type /Action /URI (http://spidal.org) >> /Border [ 0 0 0 ] /Rect [ 153.7323 675.7736 222.1023 687.7736 ] /Subtype /Link /Type /Annot >>
+endobj
+51 0 obj
+<< /Annots [ 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R ] /Contents 64 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 61 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+52 0 obj
+<< /Outlines 54 0 R /PageLabels 65 0 R /PageMode /UseNone /Pages 61 0 R /Type /Catalog >>
+endobj
+53 0 obj
+<< /Author () /CreationDate (D:20160401160440+07'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations) >>
+endobj
+54 0 obj
+<< /Count 7 /First 55 0 R /Last 56 0 R /Type /Outlines >>
+endobj
+55 0 obj
+<< /Dest [ 16 0 R /XYZ 62.69291 683.0236 0 ] /Next 56 0 R /Parent 54 0 R /Title (Abstract) >>
+endobj
+56 0 obj
+<< /Count 4 /Dest [ 16 0 R /XYZ 62.69291 452.0236 0 ] /First 57 0 R /Last 60 0 R /Parent 54 0 R /Prev 55 0 R 
+  /Title (Long Description) >>
+endobj
+57 0 obj
+<< /Dest [ 16 0 R /XYZ 62.69291 419.0236 0 ] /Next 58 0 R /Parent 56 0 R /Title (BACKGROUND) >>
+endobj
+58 0 obj
+<< /Dest [ 16 0 R /XYZ 62.69291 287.0236 0 ] /Next 59 0 R /Parent 56 0 R /Prev 57 0 R /Title (RESULTS) >>
+endobj
+59 0 obj
+<< /Dest [ 41 0 R /XYZ 62.69291 639.0236 0 ] /Next 60 0 R /Parent 56 0 R /Prev 58 0 R /Title (CONCLUSIONS) >>
+endobj
+60 0 obj
+<< /Dest [ 41 0 R /XYZ 62.69291 507.0236 0 ] /Parent 56 0 R /Prev 59 0 R /Title (BIOGRAPHY) >>
+endobj
+61 0 obj
+<< /Count 3 /Kids [ 16 0 R 41 0 R 51 0 R ] /Type /Pages >>
+endobj
+62 0 obj
+<< /Length 6595 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28 Tm /F2 20 Tf 24 TL 20.45488 0 Td (MDAnalysis: A Python Package for the Rapid) Tj T* 2.200002 0 Td (Analysis of Molecular Dynamics Simulations) Tj T* -22.65488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 695.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Submission subgroup: ) Tj /F2 10 Tf (Mini Symposium: Biology and Medicine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 662.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Abstract) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 464.0236 cm
+q
+BT 1 0 0 1 0 182 Tm 2.09816 Tw 12 TL /F1 10 Tf 0 0 0 rg (MDAnalysis \() Tj 0 0 .501961 rg (http://mdanalysis.org) Tj 0 0 0 rg (\) is an object-oriented library for structural and temporal analysis of) Tj T* 0 Tw 2.555433 Tw (molecular dynamics \(MD\) simulation trajectories and individual protein structures. MD simulations of) Tj T* 0 Tw 2.428314 Tw (biological molecules have become an important tool to elucidate the relationship between molecular) Tj T* 0 Tw .882706 Tw (structure and physiological function. Simulations are performed with highly optimized software packages) Tj T* 0 Tw 3.572651 Tw (on HPC resources but most codes generate output trajectories in their own formats so that the) Tj T* 0 Tw 4.190814 Tw (development of new trajectory analysis algorithms is confined to specific user communities and) Tj T* 0 Tw .345814 Tw (widespread adoption and further development is delayed. The MDAnalysis library addresses this problem) Tj T* 0 Tw 3.138443 Tw (by abstracting access to the raw simulation data and presenting a uniform object-oriented Python) Tj T* 0 Tw .290542 Tw (interface to the user. It thus enables users to rapidly write code that is portable and immediately usable in) Tj T* 0 Tw .15152 Tw (virtually all biomolecular simulation communities. The user interface and modular design work equally well) Tj T* 0 Tw 3.994597 Tw (in complex scripted workflows, as foundations for other packages, and for interactive and rapid) Tj T* 0 Tw .43748 Tw (prototyping work in ) Tj 0 0 .501961 rg (IPython ) Tj 0 0 0 rg (/ ) Tj 0 0 .501961 rg (Jupyter ) Tj 0 0 0 rg (notebooks, especially together with molecular visualization provided) Tj T* 0 Tw .95436 Tw (by ) Tj 0 0 .501961 rg (nglview ) Tj 0 0 0 rg (and time series analysis with ) Tj 0 0 .501961 rg (pandas) Tj 0 0 0 rg (. MDAnalysis is written in Python and Cython and uses) Tj T* 0 Tw 1.019318 Tw (NumPy arrays for easy interoperability with the wider scientific Python ecosystem. It is widely used and) Tj T* 0 Tw 1.366647 Tw (forms the foundation for more specialized biomolecular simulation tools. MDAnalysis is available under) Tj T* 0 Tw (the GNU General Public License v2.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 431.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Long Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 401.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (BACKGROUND) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 299.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL .49229 Tw (Molecular dynamics \(MD\) simulations of biological molecules have become an important tool to elucidate) Tj T* 0 Tw 1.185433 Tw (the relationship between molecular structure and physiological function. Simulations are performed with) Tj T* 0 Tw 1.686136 Tw (highly optimized software packages on HPC resources but most codes generate output trajectories in) Tj T* 0 Tw 1.461984 Tw (their own formats so that the development of new trajectory analysis algorithms is confined to specific) Tj T* 0 Tw .94748 Tw (user communities and widespread adoption and further development is delayed. Typical trajectory sizes) Tj T* 0 Tw 1.909986 Tw (range from gigabytes to terabytes so it is typically not feasible to convert trajectories into a range of) Tj T* 0 Tw 1.093516 Tw (different formats just to use a tool that requires this specific form. Instead, a framework is required that) Tj T* 0 Tw (provides a common interface to raw simulation data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 269.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (RESULTS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 131.0236 cm
+q
+BT 1 0 0 1 0 122 Tm 1.277851 Tw 12 TL /F1 10 Tf 0 0 0 rg (The MDAnalysis library ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (1 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (addresses this problem by abstracting access to the raw simulation data and) Tj T* 0 Tw 1.446412 Tw (presenting a uniform object-oriented Python interface to the user. MDAnalysis is written in Python and) Tj T* 0 Tw 1.56784 Tw (Cython and uses NumPy arrays for easy interoperability with the wider scientific Python ecosystem. It) Tj T* 0 Tw .275868 Tw (currently supports more than 25 different file formats and covers the vast majority of data formats that are) Tj T* 0 Tw .494269 Tw (used in the biomolecular simulation community, including the formats required and produced by the most) Tj T* 0 Tw 3.977976 Tw (popular packages NAMD, Amber, Gromacs, CHARMM, LAMMPS, DL_POLY, HOOMD. The user) Tj T* 0 Tw .940814 Tw (interface provides "physics-based" abstractions \(e.g. "atoms", "bonds", "molecules"\) of the data that can) Tj T* 0 Tw 1.745868 Tw (be easily manipulated by the user. It hides the complexity of accessing data and frees the user from) Tj T* 0 Tw .720651 Tw (having to implement the details of different trajectory and topology file formats \(which by themselves are) Tj T* 0 Tw .577984 Tw (often only poorly documented and just adhere to certain "community expectations" that can be difficult to) Tj T* 0 Tw (understand for outsiders\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 77.02362 cm
+q
+BT 1 0 0 1 0 38 Tm .017984 Tw 12 TL /F1 10 Tf 0 0 0 rg (The user interface and modular design work equally well in complex scripted workflows, as foundations for ) Tj T* 0 Tw 2.912697 Tw (other packages ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (2) Tj /F1 10 Tf 0 0 0 rg 0 Ts ( ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (3) Tj /F1 10 Tf 0 0 0 rg 0 Ts ( ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (4) Tj /F1 10 Tf 0 0 0 rg 0 Ts (, and for interactive and rapid prototyping work in IPython/Jupyter notebooks, ) Tj T* 0 Tw 2.715213 Tw (especially together with molecular visualization provided by nglview ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (5 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (and time series analysis with ) Tj T* 0 Tw 2.423584 Tw (pandas ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (6) Tj /F1 10 Tf 0 0 0 rg 0 Ts (. Since the original publication ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (1) Tj /F1 10 Tf 0 0 0 rg 0 Ts (, improvements in speed and data structures make it now) Tj T* 0 Tw ET
+Q
+Q
+ 
+endstream
+endobj
+63 0 obj
+<< /Length 7853 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.283059 Tw 12 TL /F1 10 Tf 0 0 0 rg (possible to work with terabyte-sized trajectories containing up to ~10 million particles. MDAnalysis also) Tj T* 0 Tw 4.561647 Tw (comes with specialized analysis classes in the MDAnalysis.analysis module that are unique to) Tj T* 0 Tw .11986 Tw (MDAnalysis such as the LeafletFinder graph-based algorithm for the analysis of lipid bilayers ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (1 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (or the Path) Tj T* 0 Tw (Similarity Analysis for the quantitative comparison of macromolecular conformational changes ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (2) Tj /F1 10 Tf 0 0 0 rg 0 Ts (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+q
+BT 1 0 0 1 0 50 Tm 3.792126 Tw 12 TL /F1 10 Tf 0 0 0 rg (MDAnalysis is available in source form under the GNU General Public License v2 from GitHub) Tj T* 0 Tw 7.25622 Tw 0 0 .501961 rg (https://github.com/MDAnalysis/mdanalysis ) Tj 0 0 0 rg (and PyPi; conda packages are also available. The) Tj T* 0 Tw 12.34139 Tw (documentation is extensive ) Tj 0 0 .501961 rg (http://docs.mdanalysis.org ) Tj 0 0 0 rg (including an introductory tutorial) Tj T* 0 Tw 2.131085 Tw 0 0 .501961 rg (http://www.mdanalysis.org/MDAnalysisTutorial/ ) Tj 0 0 0 rg (and a very friendly and welcoming user and developer) Tj T* 0 Tw (community.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (CONCLUSIONS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+q
+BT 1 0 0 1 0 86 Tm 2.679983 Tw 12 TL /F1 10 Tf 0 0 0 rg (MDAnalysis provides a uniform interface to simulation data, which comes in a bewildering array of) Tj T* 0 Tw 2.031235 Tw (formats. It enables users to rapidly write code that is portable and immediately usable in virtually all) Tj T* 0 Tw 3.815433 Tw (biomolecular simulation communities. It has a very active international developer community with) Tj T* 0 Tw 1.573318 Tw (researchers that are expert developers and users of a wide range of simulation codes. MDAnalysis is) Tj T* 0 Tw 2.531633 Tw (widely used \(the original paper ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (1 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (is cited more than 180 times\) and forms the foundation for more) Tj T* 0 Tw 4.792314 Tw (specialized biomolecular simulation tools ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (2) Tj /F1 10 Tf 0 0 0 rg 0 Ts ( ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (3) Tj /F1 10 Tf 0 0 0 rg 0 Ts ( ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (4) Tj /F1 10 Tf 0 0 0 rg 0 Ts (. Ongoing and future developments will improve) Tj T* 0 Tw .250976 Tw (performance further, introduce transparent parallelisation schemes to utilize multi-core systems efficiently,) Tj T* 0 Tw (and interface with the SPIDAL library ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (7 ) Tj /F1 10 Tf 0 0 0 rg 0 Ts (for high performance data analytics algorithms.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 489.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (BIOGRAPHY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 339.0236 cm
+q
+BT 1 0 0 1 0 134 Tm .943984 Tw 12 TL /F1 10 Tf 0 0 0 rg (Oliver Beckstein is an Assistant Professor in the Department of Physics at Arizona State University and) Tj T* 0 Tw .474524 Tw (leads the Computational Biophysics research group ) Tj 0 0 .501961 rg (http://becksteinlab.physics.asu.edu/) Tj 0 0 0 rg (. He is one of the) Tj T* 0 Tw 1.22498 Tw (founders of MDAnalysis \(together with Naveen Michaud-Agrawal and Elizabeth Denning\) and an active) Tj T* 0 Tw 6.920814 Tw (core developer. He obtained his undergraduate degree in physics from the University of) Tj T* 0 Tw .458555 Tw (Erlangen-Nuremberg, Germany, and his DPhil in Biochemistry from the University of Oxford, UK. He was) Tj T* 0 Tw 3.154269 Tw (a Junior Research Fellow at Merton College, Oxford, and a postdoctoral fellow at Johns Hopkins) Tj T* 0 Tw 2.244147 Tw (University. Research in his group centers on using computational approaches to elucidate molecular) Tj T* 0 Tw 2.328443 Tw (mechanisms of transport across the cell membrane and development of new analysis and sampling) Tj T* 0 Tw 2.160697 Tw (algorithms. The lab is also part of a large NSF-funded cooperative effort \() Tj 0 0 .501961 rg (http://spidal.org/) Tj 0 0 0 rg (\) to create) Tj T* 0 Tw 3.356647 Tw (middleware and analytics libraries for data science at large scale on high-performance computing) Tj T* 0 Tw .537318 Tw (systems. Some of the algorithms for efficiently analyzing large simulations will be implemented as part of) Tj T* 0 Tw (the MDAnalysis package.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 282.3307 cm
+Q
+q
+1 0 0 1 62.69291 253.9843 cm
+n 0 14.17323 m 469.8898 14.17323 l S
+Q
+q
+1 0 0 1 62.69291 199.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 42 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (1\() Tj 0 0 .501961 rg (1) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (2) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (3) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (4) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 48 cm
+Q
+q
+1 0 0 1 91.03937 48 cm
+Q
+q
+1 0 0 1 91.03937 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 4 0 Td (N.) Tj T* -4 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 38 Tm .520036 Tw 12 TL /F1 10 Tf 0 0 0 rg (Michaud-Agrawal, E. J. Denning, T. B. Woolf, and O. Beckstein. MDAnalysis: A) Tj T* 0 Tw 3.242039 Tw (toolkit for the analysis of molecular dynamics simulations. J Comp Chem,) Tj T* 0 Tw 33.0926 Tw (32:2319\2262327, 2011. doi: 10.1002/jcc.21787. URL) Tj T* 0 Tw 0 0 .501961 rg (http://doi.org/10.1002/jcc.21787) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 139.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 48 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (2\() Tj 0 0 .501961 rg (1) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (2) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (3) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 54 cm
+Q
+q
+1 0 0 1 91.03937 54 cm
+Q
+q
+1 0 0 1 91.03937 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 4.55 0 Td (S.) Tj T* -4.55 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (L.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 38 Tm .299127 Tw 12 TL /F1 10 Tf 0 0 0 rg (Seyler, A. Kumar, M. F. Thorpe, and O. Beckstein. Path similarity analysis:) Tj T* 0 Tw 1.937549 Tw (A method for quantifying macromolecular pathways. PLoS Comput Biol,) Tj T* 0 Tw 5.073399 Tw (11\(10\):e1004568, 10 2015. doi: 10.1371/journal.pcbi. 1004568. URL) Tj T* 0 Tw 0 0 .501961 rg (http://dx.doi.org/10.1371%2Fjournal.pcbi.1004568) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 85.98425 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 42 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (3\() Tj 0 0 .501961 rg (1) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (2) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 48 cm
+Q
+q
+1 0 0 1 91.03937 48 cm
+Q
+q
+1 0 0 1 91.03937 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 2.89 0 Td (M.) Tj T* -2.89 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 38 Tm 4.584488 Tw 12 TL /F1 10 Tf 0 0 0 rg (Tiberti, E. Papaleo, T. Bengtsen, W. Boomsma, and K. Lindorff-Larsen.) Tj T* 0 Tw 1.131299 Tw (ENCORE: Software for quantitative ensemble comparison. PLoS Comput Biol,) Tj T* 0 Tw 8.906732 Tw (11\(10\):e1004415, 10 2015. doi: 10.1371/journal.pcbi. 1004415. URL) Tj T* 0 Tw 0 0 .501961 rg (http://dx.doi.org/10.1371%2Fjournal.pcbi.1004415) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+64 0 obj
+<< /Length 1913 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 711.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 42 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (4\() Tj 0 0 .501961 rg (1) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (2) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 48 cm
+Q
+q
+1 0 0 1 91.03937 48 cm
+Q
+q
+1 0 0 1 91.03937 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 4.55 0 Td (E.) Tj T* -4.55 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 38 Tm .799199 Tw 12 TL /F1 10 Tf 0 0 0 rg (Somogyi, A. A. Mansour, and P. J. Ortoleva. ProtoMD: A prototyping toolkit for) Tj T* 0 Tw .900056 Tw (multiscale molecular dynamics. Computer Physics Communications, 202:337 \226) Tj T* 0 Tw 20.39673 Tw (350, 2016. ISSN 0010-4655. doi: 10.1016/j.cpc. URL) Tj T* 0 Tw 0 0 .501961 rg (http://www.sciencedirect.com/science/article/pii/S0010465516300030) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://github.com/arose/nglview) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://pandas.pydata.org/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://spidal.org) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+65 0 obj
+<< /Nums [ 0 66 0 R 1 67 0 R 2 68 0 R ] >>
+endobj
+66 0 obj
+<< /S /D /St 1 >>
+endobj
+67 0 obj
+<< /S /D /St 2 >>
+endobj
+68 0 obj
+<< /S /D /St 3 >>
+endobj
+xref
+0 69
+0000000000 65535 f
+0000000075 00000 n
+0000000119 00000 n
+0000000229 00000 n
+0000000344 00000 n
+0000000520 00000 n
+0000000694 00000 n
+0000000868 00000 n
+0000001055 00000 n
+0000001235 00000 n
+0000001406 00000 n
+0000001578 00000 n
+0000001748 00000 n
+0000001920 00000 n
+0000002092 00000 n
+0000002264 00000 n
+0000002436 00000 n
+0000002740 00000 n
+0000002911 00000 n
+0000003083 00000 n
+0000003279 00000 n
+0000003461 00000 n
+0000003661 00000 n
+0000003833 00000 n
+0000004005 00000 n
+0000004177 00000 n
+0000004349 00000 n
+0000004521 00000 n
+0000004713 00000 n
+0000004887 00000 n
+0000005059 00000 n
+0000005231 00000 n
+0000005403 00000 n
+0000005575 00000 n
+0000005763 00000 n
+0000005935 00000 n
+0000006107 00000 n
+0000006279 00000 n
+0000006483 00000 n
+0000006655 00000 n
+0000006827 00000 n
+0000007031 00000 n
+0000007429 00000 n
+0000007601 00000 n
+0000007773 00000 n
+0000007995 00000 n
+0000008167 00000 n
+0000008355 00000 n
+0000008527 00000 n
+0000008708 00000 n
+0000008880 00000 n
+0000009053 00000 n
+0000009338 00000 n
+0000009447 00000 n
+0000009743 00000 n
+0000009820 00000 n
+0000009933 00000 n
+0000010094 00000 n
+0000010209 00000 n
+0000010334 00000 n
+0000010463 00000 n
+0000010577 00000 n
+0000010655 00000 n
+0000017307 00000 n
+0000025217 00000 n
+0000027187 00000 n
+0000027249 00000 n
+0000027286 00000 n
+0000027323 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(~\222\320t\3042\227\235\277}\022\263\203o\354a) (~\222\320t\3042\227\235\277}\022\263\203o\354a)]
+ /Info 53 0 R /Root 52 0 R /Size 69 >>
+startxref
+27360
+%%EOF
