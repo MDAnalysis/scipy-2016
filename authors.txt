@@ -1,0 +1,16 @@
+.. -*- coding: utf-8; fill-column: 90 -*-
+
+Oliver Beckstein	oliver.beckstein@asu.edu	Arizona State University
+Richard J. Gowers       richardjgowers@gmail.com        University of Manchester, UK
+Max Linke               max.linke@biophys.mpg.de        Max Planck Institut für Biophysik, Frankfurt, Germany
+Jonathan Barnoud        j.barnoud@rug.nl                University of Groningen, The Netherlands
+Tyler J. E. Reddy       tyler.reddy@bioch.ox.ac.uk      University of Oxford, UK
+Manuel N. Melo          m.n.melo@rug.nl                 University of Groningen, The Netherlands
+Sean Seyler             slseyler@asu.edu    		Arizona State University
+Jan Domanski		jandom@gmail.com                University of Oxford, NIH
+David Dotson            dldotson@asu.edu      		Arizona State University
+Sébastien Buchoux       sebastien.buchoux@u-picardie.fr Université de Picardie Jules Verne, France
+Ian Kenney              Ian.Kenney@asu.edu    		Arizona State University
+
+(Order after Oliver according to commits to develop since 2014.)
+
