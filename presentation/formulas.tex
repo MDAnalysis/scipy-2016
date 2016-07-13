@@ -1,0 +1,24 @@
+U(\vec{r}_{1}, \dots, \vec{r}_{N}) =
+U_{\text{bonded}}(\vec{r}_{1},\dots) + U_{\text{non-bonded}}(\vec{r}_{1},\dots)
+
+\vec{F}_i = -\frac{\partial}{\partial \vec{r}_i} U(\vec{r}_{1}, \dots,
+\vec{r}_{i}, \dots, \vec{r}_{N})
+
+\vec{F}_{i} = m_{i} \vec{a}_{i}
+
+\frac{d^{2}\vec{r}_{i}}{dt^{2}} = \frac{\vec{F}_{i}}{m_{i}}
+
+\vec{r}_{i}(t + \Delta t) = 2\vec{r}_{i}(t) - \vec{r}_{i}(t - \Delta
+t) + \frac{\vec{F}_{i}(t)}{m_{i}} \Delta t^{2}
+
+
+\vec{r}_{1}(0), &\dots, \vec{r}_{N}(0)\\
+\vec{r}_{1}(\Delta t), &\dots, \vec{r}_{N}(\Delta t)\\
+\vec{r}_{1}(2\Delta t), &\dots, \vec{r}_{N}(2\Delta t)\\
+\vec{r}_{1}(3\Delta t), &\dots, \vec{r}_{N}(3\Delta t)\\
+&\vdots
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
