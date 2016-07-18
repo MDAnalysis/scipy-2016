@@ -26,3 +26,10 @@ If you are interested in being on the author's list and have contributed to MDAn
 ## License
 
 All content in this repository is made available under a [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) license.
+
+## Presentation
+* The presentation slides are available in the `presentation`
+  subdirectory.
+* The presentation itself was recorded and is available on Enthought's
+  YouTube channel as
+  [MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations | SciPy 2016](https://www.youtube.com/watch?v=zVQGFysYDew).
